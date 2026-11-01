@@ -19,10 +19,10 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 
 ## Proyectos públicos
 
-- **[helpdesk](https://github.com/MariioDk/helpdesk)**: sistema de tickets de soporte con Node.js, Express, Oracle y JWT, hecho en equipo. Desarrollé la autenticación de usuarios.
-- **[empresa-retail-admin](https://github.com/MariioDk/empresa-retail-admin)**: seguridad y control de acceso en MySQL con usuarios, roles, permisos por mínimo privilegio y pruebas de seguridad.
-- **[empresa-retail](https://github.com/MariioDk/empresa-retail)**: diseño de base de datos con modelo entidad-relación, normalización y consultas SQL.
-- **[pagina-web](https://mariiodk.github.io/pagina-web/)**: página web de presentación hecha con HTML, CSS y JavaScript.
+- **[helpdesk](https://github.com/luis-chamizo/helpdesk)**: sistema de tickets de soporte con Node.js, Express, Oracle y JWT, hecho en equipo. Desarrollé la autenticación de usuarios.
+- **[empresa-retail-admin](https://github.com/luis-chamizo/empresa-retail-admin)**: seguridad y control de acceso en MySQL con usuarios, roles, permisos por mínimo privilegio y pruebas de seguridad.
+- **[empresa-retail](https://github.com/luis-chamizo/empresa-retail)**: diseño de base de datos con modelo entidad-relación, normalización y consultas SQL.
+- **[pagina-web](https://luis-chamizo.github.io/pagina-web/)**: página web de presentación hecha con HTML, CSS y JavaScript.
 
 ## Certificaciones
 
