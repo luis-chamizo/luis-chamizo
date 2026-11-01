@@ -6,8 +6,9 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 
 ## Tecnologías
 
-- **Desarrollo web:** PHP, Laravel, Livewire, Tailwind CSS, HTML, CSS, JavaScript
-- **Bases de datos:** MySQL
+- **Lenguajes:** PHP, Python, JavaScript, Java, SQL
+- **Desarrollo web:** Laravel, Livewire, Node.js, Express, Flask, Tailwind CSS, HTML, CSS
+- **Bases de datos:** MySQL, Oracle
 - **Herramientas y pruebas:** Git, GitHub, GitHub Actions, Pest
 - **Soporte e infraestructura:** soporte técnico, redes LAN, Linux
 - **Ciberseguridad y nube:** Microsoft Defender, Microsoft Entra ID (Azure AD)
