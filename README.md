@@ -10,7 +10,7 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 - **Desarrollo web:** Laravel, Livewire, Node.js, Express, Flask, Tailwind CSS, HTML, CSS
 - **Bases de datos:** MySQL, Oracle
 - **Herramientas y pruebas:** Git, GitHub, GitHub Actions, Pest
-- **Soporte e infraestructura:** soporte técnico, redes LAN, Linux
+- **Soporte e infraestructura:** soporte técnico, redes LAN, Linux, software de dispositivos móviles (iPhone y Android)
 - **Ciberseguridad y nube:** Microsoft Defender, Microsoft Entra ID (Azure AD)
 
 ## Proyecto destacado
@@ -19,6 +19,7 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 
 ## Proyectos públicos
 
+- **[helpdesk](https://github.com/MariioDk/helpdesk)**: sistema de tickets de soporte con Node.js, Express, Oracle y JWT, hecho en equipo. Desarrollé la autenticación de usuarios.
 - **[empresa-retail-admin](https://github.com/MariioDk/empresa-retail-admin)**: seguridad y control de acceso en MySQL con usuarios, roles, permisos por mínimo privilegio y pruebas de seguridad.
 - **[empresa-retail](https://github.com/MariioDk/empresa-retail)**: diseño de base de datos con modelo entidad-relación, normalización y consultas SQL.
 - **[pagina-web](https://mariiodk.github.io/pagina-web/)**: página web de presentación hecha con HTML, CSS y JavaScript.
