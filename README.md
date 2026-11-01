@@ -16,6 +16,12 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 
 **[PROVITEC](https://provitec.co)**: plataforma web diseñada para administrar una comunidad de 250 lotes en Timbío, Cauca, con tesorería, asambleas, convivencia, paz y salvos, reportes y auditoría. La desarrollé en un equipo de 3 personas durante mis prácticas empresariales, con Laravel 12, Livewire y MySQL. Entre mis aportes están la asistencia con código QR, las multas por inasistencia, la instalación en el celular (PWA) con notificaciones Web Push y las pruebas automatizadas con Pest. El código es privado.
 
+## Proyectos públicos
+
+- **[empresa-retail-admin](https://github.com/MariioDk/empresa-retail-admin)**: seguridad y control de acceso en MySQL con usuarios, roles, permisos por mínimo privilegio y pruebas de seguridad.
+- **[empresa-retail](https://github.com/MariioDk/empresa-retail)**: diseño de base de datos con modelo entidad-relación, normalización y consultas SQL.
+- **[pagina-web](https://mariiodk.github.io/pagina-web/)**: página web de presentación hecha con HTML, CSS y JavaScript.
+
 ## Certificaciones
 
 - Microsoft Cybersecurity Analyst, certificado profesional de 9 cursos (Microsoft / Coursera, 2025). [Verificar](https://coursera.org/verify/professional-cert/K8AUSHDDOJHA)
