@@ -9,7 +9,7 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 - **Lenguajes:** PHP, Python, JavaScript, Java, SQL
 - **Desarrollo web:** Laravel, Livewire, Node.js, Express, Flask, Tailwind CSS, HTML, CSS
 - **Bases de datos:** MySQL, Oracle
-- **Análisis de datos:** Python, Google Colab
+- **Análisis de datos:** Python, Google Colab, Azure Synapse Analytics
 - **Pruebas y herramientas:** pruebas de software, Pest, Git, GitHub, GitHub Actions
 - **Soporte e infraestructura:** soporte técnico, redes LAN, Linux, software de dispositivos móviles (iPhone y Android)
 - **Ciberseguridad y nube:** Microsoft Defender, Microsoft Entra ID (Azure AD)
