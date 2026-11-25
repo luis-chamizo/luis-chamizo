@@ -1,6 +1,6 @@
 # Luis Mario Chamizo Tiafi
 
-Estudiante de último semestre de **Ingeniería de Sistemas** en la Fundación Universitaria de Popayán, con finalización de estudios en diciembre de 2026. Tengo experiencia en desarrollo web con PHP y Laravel, y formación en ciberseguridad e inteligencia artificial.
+Egresado de **Ingeniería de Sistemas** de la Fundación Universitaria de Popayán (grado en abril de 2027). Tengo experiencia en desarrollo web con PHP y Laravel, y formación en ciberseguridad e inteligencia artificial.
 
 Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 
@@ -16,7 +16,7 @@ Busco una primera oportunidad en desarrollo web, soporte de TI o ciberseguridad.
 
 ## Proyecto destacado
 
-**[PROVITEC](https://provitec.co)**: plataforma web diseñada para administrar una comunidad de 250 lotes en Timbío, Cauca, con tesorería, asambleas, convivencia, paz y salvos, reportes y auditoría. La desarrollé en un equipo de 3 personas durante mis prácticas empresariales, con Laravel 12, Livewire y MySQL. Entre mis aportes están la asistencia con código QR, las multas por inasistencia, la instalación en el celular (PWA) con notificaciones Web Push y las pruebas automatizadas con Pest. El código es privado.
+**[PROVITEC](https://provitec.co)**: plataforma web diseñada para administrar una comunidad de 250 lotes en Timbío, Cauca, con tesorería, asambleas, convivencia, paz y salvos, reportes y auditoría. La desarrollé en un equipo de 3 practicantes durante mi pasantía en ASOINCA (agosto a noviembre de 2026), en convenio con la FUP, con Laravel 12, Livewire y MySQL. Entre mis aportes están la asistencia con código QR, las multas por inasistencia, la instalación en el celular (PWA) con notificaciones Web Push y las pruebas automatizadas con Pest. El código es privado. La FUP me dio un reconocimiento por destacada participación en esta práctica.
 
 ## Proyectos públicos
 
